@@ -1,6 +1,6 @@
 # vue-Meizi
 
->  本项目是基于vue2最新实战项目，是适合新手进阶的绝佳教程。代码简单易懂，注释多多。实现了移动端使用最多的 无限滚动，图片加载，左右滑动。
+>  本项目是基于vue2最新实战项目，是适合新手练习.实现了移动端使用最多的 无限滚动，图片加载，左右滑动。
 
 
 ### 项目技术架构
@@ -34,7 +34,7 @@
 ***
 项目地址：（`git clone`）
 ```shell
-git clone https://github.com/liangxiaojuan/vue-Meizi.git
+git clone https://github.com/chongwenwen/vue-text2.git
 ```
 通过`npm`安装本地服务第三方依赖模块(需要已安装[Node.js](https://nodejs.org/))
 
@@ -51,23 +51,10 @@ npm run dev
 ```
 npm run build
 ```
-### 安装注意
-安装 vue-cli
-```
-npm install -g vue-cli
-```
-安装 vue-cli eslint
-```
-npm install -g eslint
-```
- 安装依赖 friendly-errors-webpack-plugin
-
-```
-npm install friendly-errors-webpack-plugin --save-dev
-```
 
 
 ###实现的功能
+
 ***
 * 瀑布流布局
 * 无限滚动
